@@ -11,4 +11,5 @@
 ![Win % vs Point Differential](outputs/screenshots/win_per_vs_point_diff.png)
 
 ### Win Percentage vs Points Per Game
-![Win % vs Points Per Game](outputs/screenshots/win_pct_vs_points_per_game.png)
+![Win % vs Points Per Game](outputs/screenshots/win_per_vs_points_per_game.png)
+
