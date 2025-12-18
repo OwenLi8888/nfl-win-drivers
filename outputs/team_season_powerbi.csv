@@ -1,0 +1,33 @@
+team,wins,losses,win_pct,points_for,points_against,point_diff
+Buffalo Bills,13,4,0.765,525,368,157
+Miami Dolphins,8,9,0.471,345,364,-19
+New York Jets,5,12,0.294,338,404,-66
+New England Patriots,4,13,0.235,289,417,-128
+Baltimore Ravens,12,5,0.706,518,361,157
+Pittsburgh Steelers,10,7,0.588,380,347,33
+Cincinnati Bengals,9,8,0.529,472,434,38
+Cleveland Browns,3,14,0.176,258,435,-177
+Houston Texans,10,7,0.588,372,372,0
+Indianapolis Colts,8,9,0.471,377,427,-50
+Jacksonville Jaguars,4,13,0.235,320,435,-115
+Tennessee Titans,3,14,0.176,311,460,-149
+Kansas City Chiefs,15,2,0.882,385,326,59
+Los Angeles Chargers,11,6,0.647,402,301,101
+Denver Broncos,10,7,0.588,425,311,114
+Las Vegas Raiders,4,13,0.235,309,434,-125
+Philadelphia Eagles,14,3,0.824,463,303,160
+Washington Commanders,12,5,0.706,485,391,94
+Dallas Cowboys,7,10,0.412,350,468,-118
+New York Giants,3,14,0.176,273,415,-142
+Detroit Lions,15,2,0.882,564,342,222
+Minnesota Vikings,14,3,0.824,432,332,100
+Green Bay Packers,11,6,0.647,460,338,122
+Chicago Bears,5,12,0.294,310,370,-60
+Tampa Bay Buccaneers,10,7,0.588,502,385,117
+Atlanta Falcons,8,9,0.471,389,423,-34
+Carolina Panthers,5,12,0.294,341,534,-193
+New Orleans Saints,5,12,0.294,338,398,-60
+Los Angeles Rams,10,7,0.588,367,386,-19
+Seattle Seahawks,10,7,0.588,375,368,7
+Arizona Cardinals,8,9,0.471,400,379,21
+San Francisco 49ers,6,11,0.353,389,436,-47
